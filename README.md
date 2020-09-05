@@ -1,9 +1,9 @@
-### Hi there, I'm Yeshi - aka [cucumberslice][www.codealpaca.io]
+### Hi there, I'm Yeshi - aka [cucumberslice](www.codealpaca.io)
 
 ## No super power but I'm pretty confident I can reverse a LinkedList.
 
 - 🔬 I'm currently learning about Microservices with Node js and React
-- 💻 I've also started my blogging site [codeAlpaca][www.codealpaca.io]
+- 💻 I've also started my blogging site [codeAlpaca](www.codealpaca.io)
 - 🗓 2020 Goals: Contribute more to Open Source projects
 - 🚿 Shower Thoughts: If someone took a photo of themselves every day from 0 to 100 years old, we could watch a video of their entire life in a 10 minute and 8 second video at 60 frames per second.
 
@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/wangdzi]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/yeshi-wangdi/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/cucumber_slice/]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/wangdzi)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yeshi-wangdi/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cucumber_slice/)
 
 <br />
 
